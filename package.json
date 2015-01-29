@@ -1,5 +1,5 @@
 {
-  "name": "emc-cct",
+  "name": "",
   "version": "0.0.1",
   "description": "",
   "main": "Gruntfile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:netcraft-dev/emc-cct.git"
+    "url": ""
   },
   "author": "Netcraft Israel",
   "license": "Commercial",
