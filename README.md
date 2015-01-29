@@ -1,4 +1,4 @@
-# EMC CCT Instructions
+# Instructions
 
 ## Install
 

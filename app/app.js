@@ -1,3 +1,3 @@
 var angular = require("angular");
 
-alert("cccccccccc");
+angular && alert("Angular has loaded");
