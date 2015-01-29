@@ -44,3 +44,9 @@ Will install:
 
 - Compass
 - SASS
+
+***
+
+## Style Guides
+
+- AngularJS: <https://github.com/johnpapa/angularjs-styleguide>

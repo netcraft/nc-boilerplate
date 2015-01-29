@@ -7,7 +7,7 @@ module.exports = function (grunt) {
 			dest: "dist"
 		},
 		browserify: {
-			app: {
+			js: {
 				src: "<%= config.src %>/app.js",
 				dest: "<%= config.dest %>/app.js"
 			}

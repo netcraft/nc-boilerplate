@@ -1,3 +1,9 @@
+"use strict"
+
 var angular = require("angular");
 
-angular && alert("Angular has loaded");
+angular.module("MyApp", []);
+
+angular.bootstrap(document, ["MyApp"]);
+
+// require("component")
